@@ -19,8 +19,6 @@
 
 1. Creation of customer-service micro-service which allows to manage customers
      - Code Demon
-
-![](/assetsCustomer 4.png)
-
-
-
+![Code Demonstration](/assets/customer4.png)
+     - Swagger Demon
+![Swagger Demonstration](/assets/customer5.png)
