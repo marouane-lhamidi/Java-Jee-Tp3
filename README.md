@@ -1,4 +1,4 @@
-# **Controle-Jee**
+# **Tp-Jee-N°3**
 
 ## **Description**  
 
@@ -18,7 +18,22 @@
 ### **Realization :**
 
 1. Creation of customer-service micro-service which allows to manage customers
-     - Code Demon
+     - Code Demo
 ![Code Demonstration](/assets/customer4.png)
-     - Swagger Demon
+     - Swagger Demo
 ![Swagger Demonstration](/assets/customer5.png)
+
+2. Creation of customer-service micro-service which allows to manage products
+     - Code Demo
+![Code Demonstration](/assets/Product4.png)
+     - Swagger Demo
+![Swagger Demonstration](/assets/Product5.png)
+
+
+3. Creation of Billing-Service billing service using Open Feign
+     - Code Demo
+![Code Demonstration](/assets/Bill4.png)
+     - Code Fiegn Demo
+![Code Demonstration](/assets/Bill5.png)
+     - Swagger Demo
+![Swagger Demonstration](/assets/Bill10.png)
