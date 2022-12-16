@@ -37,3 +37,25 @@
 ![Code Demonstration](/assets/Bill5.png)
      - Swagger Demo
 ![Swagger Demonstration](/assets/Bill10.png)
+
+
+4. Creation of an Angular web client (Clients, Products, Inventory)
+     - Clients
+          - List of Clients
+![Code Demonstration](/assets/CustomerList.png)
+          - Edit Client
+![Code Demonstration](/assets/CustomerEdit.png)
+          - New Client
+![Code Demonstration](/assets/CustomerNew.png)
+     - Products
+          - List of Products
+![Code Demonstration](/assets/ProductList.png)
+          - Edit Product
+![Code Demonstration](/assets/ProductEdit.png)
+          - New Product
+![Code Demonstration](/assets/ProductNew.png)
+     - Inventories
+          - List of Inventories
+![Code Demonstration](/assets/BillList.png)
+          - Inventory Information
+![Code Demonstration](/assets/BillInformations.png)
